@@ -1,3 +1,5 @@
+import Script from "next/script";
+
 export function StructuredData() {
   const payload = {
     "@context": "https://schema.org",
@@ -17,9 +19,13 @@ export function StructuredData() {
   };
 
   return (
-    <script
+    <Script
+      id="structured-data"
       type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(payload) }}
-    />
+      strategy="afterInteractive"
+    >
+      {JSON.stringify(payload)}
+    </Script>
   );
 }
+

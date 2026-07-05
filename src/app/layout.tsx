@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import { StructuredData } from "@/components/StructuredData";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Douglus - Creative Developer",
+  title: "Nithin - Creative Developer",
   description:
     "Backend engineer by trade, creative developer by passion. Based in Ho Chi Minh City.",
   keywords: [
@@ -13,18 +14,18 @@ export const metadata: Metadata = {
     "Ho Chi Minh City",
   ],
   alternates: {
-    canonical: "https://douglus.site",
+    canonical: "https://nithin.site",
   },
   openGraph: {
     type: "website",
     locale: "en_US",
-    siteName: "Douglus",
-    title: "Douglus — Creative Developer",
+    siteName: "Nithin",
+    title: "Nithin — Creative Developer",
     description: "Backend engineer by trade, creative developer by passion.",
-    url: "https://douglus.site",
+    url: "https://nithin.site",
     images: [
       {
-        url: "https://douglus.site/images/og-image.jpg",
+        url: "https://nithin.site/images/og-image.jpg",
         width: 1200,
         height: 630,
       },
@@ -32,9 +33,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Douglus — Creative Developer",
+    title: "Nithin — Creative Developer",
     description: "Backend engineer by trade, creative developer by passion.",
-    images: ["https://douglus.site/images/og-image.jpg"],
+    images: ["https://nithin.site/images/og-image.jpg"],
   },
 };
 
@@ -70,13 +71,11 @@ export default function RootLayout({
           crossOrigin="anonymous"
           href="/assets/index-j1BCREBc.css"
         />
-        <script
-          type="module"
-          crossOrigin="anonymous"
-          src="/assets/index-DGJ9sR8m.js"
-        ></script>
       </head>
-      <body>{children}</body>
+      <body suppressHydrationWarning>
+        {children}
+        <StructuredData />
+      </body>
     </html>
   );
 }
