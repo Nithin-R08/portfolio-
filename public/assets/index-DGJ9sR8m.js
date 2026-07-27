@@ -819,14 +819,14 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
             <div class="right-text">
               <div class="f-text">
                 <p>
-                  I’m a software engineer focusing on intelligent full-stack systems, blending
+                  I'm a software engineer focusing on intelligent full-stack systems, blending
                   engineering discipline with modern web craftsmanship.
                 </p>
               </div>
 
               <div class="l-text">
                 <p>
-                  I care about simplicity, technical depth, and secure performance. Whether I’m
+                  I care about simplicity, technical depth, and secure performance. Whether I'm
                   designing a REST API or shaping a frontend flow, I prioritize precision and a calm,
                   intentional pace.
                 </p>
@@ -836,7 +836,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
         </div>
 
         <div class="about-hero-image">
-          <div class="img-info">Hoa Xa Tunnel, Da Lat</div>
+          <div class="img-info"></div>
           <div class="about-myself" data-scroll-image>
             <div class="image-container" style="overflow: hidden; height: 100%;">
               <img
@@ -1039,7 +1039,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
           </div>
         </div>
 
-        <div class="title-footer">Let<span class="accent">’</span>s have a chat</div>
+        <div class="title-footer">Let<span class="accent">'</span>s have a chat</div>
       </div>
     </div>
   </div>
@@ -2141,7 +2141,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">AI-Powered Elderly Care Platform <a href='https://github.com/Nithin-R08/vatsalya' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">AI-Powered Elderly Care Platform <a href='https://github.com/Nithin-R08/vatsalya' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
 
               <div class="work-item item-2">
@@ -2160,7 +2160,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">TrustLens AI is an AI fairness and bias detection platform that analyzes datasets and machine learning models to identify hidden bias, evaluate fairness metrics, generate explainable reports, and improve trustworthy AI systems. <a href='https://github.com/Nithin-R08/Trustlens-ai' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">TrustLens AI is an AI fairness and bias detection platform that analyzes datasets and machine learning models to identify hidden bias, evaluate fairness metrics, generate explainable reports, and improve trustworthy AI systems. <a href='https://github.com/Nithin-R08/Trustlens-ai' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
 
               <div class="work-item item-3">
@@ -2177,7 +2177,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">Customer churn prediction with explainable retention insights <a href='https://github.com/Nithin-R08/ChurnGuard-AI' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">Customer churn prediction with explainable retention insights <a href='https://github.com/Nithin-R08/ChurnGuard-AI' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
             </div>
 
@@ -2196,7 +2196,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">A travel planning platform with maps, routes, and destination discovery <a href='https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">A travel planning platform with maps, routes, and destination discovery <a href='https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
 
               <div class="work-item item-5">
@@ -2213,7 +2213,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">A secure beginner-friendly cryptocurrency wallet with PIN authentication, encrypted wallet creation, blockchain transactions, portfolio tracking, and digital asset management. <a href='https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">A secure beginner-friendly cryptocurrency wallet with PIN authentication, encrypted wallet creation, blockchain transactions, portfolio tracking, and digital asset management. <a href='https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
 
               <div class="work-item item-6">
@@ -2230,7 +2230,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <div class="item-divider"></div>
 
-                <div class="work-item-sub">An AI-powered computer vision application that detects crop diseases from plant leaf images and provides actionable treatment insights for farmers. <a href='https://github.com/Nithin-R08/Crop-Disease-Detector' target='_blank' rel='noopener noreferrer'>Repository ↗</a></div>
+                <div class="work-item-sub">An AI-powered computer vision application that detects crop diseases from plant leaf images and provides actionable treatment insights for farmers. <a href='https://github.com/Nithin-R08/Crop-Disease-Detector' target='_blank' rel='noopener noreferrer'>Repository &#8599;</a></div>
               </div>
             </div>
           </section>
@@ -2274,7 +2274,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
             </div>
           </div>
 
-          <div class="work-header-h2-footer">Let<span class="accent">’</span>s have a chat</div>
+          <div class="work-header-h2-footer">Let<span class="accent">'</span>s have a chat</div>
         </div>
       </div>
     </div>
@@ -2349,7 +2349,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
       <div class="hero-description">
         <div class="left-label">Overview</div>
         <div class="right-text second-text">
-          ${e.paragraph.map(p => r`<p class="paragraph">${p}</p>`)}${e.title === "VATSALYA" ? v("<p class=\"paragraph\" style=\"margin-top:2.5rem\"><strong style=\"font-size:inherit\">Tech Stack</strong><br/>React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Firebase Cloud Messaging • Twilio SMS • Web Speech API</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Key Features</strong><br/>• Real-time health monitoring dashboard for caregivers.<br/>• One-tap SOS with instant emergency alerts.<br/>• Voice-first interface for elderly users.<br/>• Medicine reminders and daily health tracking.<br/>• Multi-parent management with secure caregiver access.<br/>• Offline emergency SMS fallback for low-network areas.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">My Role</strong><br/>Designed and developed the complete full-stack application including authentication, caregiver dashboard, emergency notification system, and backend APIs.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Challenges</strong><br/>Implemented reliable SOS communication with offline SMS fallback while maintaining a simple elderly-friendly user experience.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Outcome</strong><br/>Built an AI-powered elderly care platform focused on accessibility, safety, and real-time family connectivity.</p>") : e.title === "TRUSTLENS AI" ? v("<p class=\"paragraph\" style=\"margin-top:2.5rem\"><strong style=\"font-size:inherit\">Tech Stack</strong><br/>Python • Flask • Scikit-learn • Pandas • NumPy • XGBoost • Fairlearn • SHAP • HTML • CSS • JavaScript</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Key Features</strong><br/>• Detects bias in machine learning datasets.<br/>• Computes multiple AI fairness metrics.<br/>• Generates explainable AI reports using SHAP.<br/>• Interactive dashboard for fairness visualization.<br/>• Bias comparison across protected attributes.<br/>• Supports responsible and transparent AI development.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">My Role</strong><br/>Designed and developed the complete platform including the ML pipeline, fairness analysis engine, explainability module, backend APIs, and frontend dashboard.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Challenges</strong><br/>Integrated multiple fairness metrics and explainable AI into one unified developer-friendly platform.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Outcome</strong><br/>Achieved a Top 5 finish at the CUK-CS Hackathon among 80+ teams with TrustLens AI, demonstrating practical AI fairness analysis for responsible machine learning.</p>") : ""}${(() => { let url = ""; if (e.title === "VATSALYA") url = "https://github.com/Nithin-R08/vatsalya"; else if (e.title === "TRUSTLENS AI") url = "https://github.com/Nithin-R08/Trustlens-ai"; else if (e.title === "ChurnGuard AI") url = "https://github.com/Nithin-R08/ChurnGuard-AI"; else if (e.title === "Smart Crop Disease Detector") url = "https://github.com/Nithin-R08/Crop-Disease-Detector"; else if (e.title === "Crypto Wallet for Newbies") url = "https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies"; else if (e.title === "TravelEase") url = "https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System"; return url ? r`<p class="paragraph" style="margin-top:2rem"><a href="${url}" target="_blank" rel="noopener noreferrer">Repository ↗</a></p>` : ""; })()}
+          ${e.paragraph.map(p => r`<p class="paragraph">${p}</p>`)}${e.title === "VATSALYA" ? v("<p class=\"paragraph\" style=\"margin-top:2.5rem\"><strong style=\"font-size:inherit\">Tech Stack</strong><br/>React.js • Node.js • Express.js • MongoDB • Tailwind CSS • Firebase Cloud Messaging • Twilio SMS • Web Speech API</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Key Features</strong><br/>• Real-time health monitoring dashboard for caregivers.<br/>• One-tap SOS with instant emergency alerts.<br/>• Voice-first interface for elderly users.<br/>• Medicine reminders and daily health tracking.<br/>• Multi-parent management with secure caregiver access.<br/>• Offline emergency SMS fallback for low-network areas.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">My Role</strong><br/>Designed and developed the complete full-stack application including authentication, caregiver dashboard, emergency notification system, and backend APIs.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Challenges</strong><br/>Implemented reliable SOS communication with offline SMS fallback while maintaining a simple elderly-friendly user experience.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Outcome</strong><br/>Built an AI-powered elderly care platform focused on accessibility, safety, and real-time family connectivity.</p>") : e.title === "TRUSTLENS AI" ? v("<p class=\"paragraph\" style=\"margin-top:2.5rem\"><strong style=\"font-size:inherit\">Tech Stack</strong><br/>Python • Flask • Scikit-learn • Pandas • NumPy • XGBoost • Fairlearn • SHAP • HTML • CSS • JavaScript</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Key Features</strong><br/>• Detects bias in machine learning datasets.<br/>• Computes multiple AI fairness metrics.<br/>• Generates explainable AI reports using SHAP.<br/>• Interactive dashboard for fairness visualization.<br/>• Bias comparison across protected attributes.<br/>• Supports responsible and transparent AI development.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">My Role</strong><br/>Designed and developed the complete platform including the ML pipeline, fairness analysis engine, explainability module, backend APIs, and frontend dashboard.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Challenges</strong><br/>Integrated multiple fairness metrics and explainable AI into one unified developer-friendly platform.</p><p class=\"paragraph\" style=\"margin-top:1.5rem\"><strong style=\"font-size:inherit\">Outcome</strong><br/>Achieved a Top 5 finish at the CUK-CS Hackathon among 80+ teams with TrustLens AI, demonstrating practical AI fairness analysis for responsible machine learning.</p>") : ""}${(() => { let url = ""; if (e.title === "VATSALYA") url = "https://github.com/Nithin-R08/vatsalya"; else if (e.title === "TRUSTLENS AI") url = "https://github.com/Nithin-R08/Trustlens-ai"; else if (e.title === "ChurnGuard AI") url = "https://github.com/Nithin-R08/ChurnGuard-AI"; else if (e.title === "Smart Crop Disease Detector") url = "https://github.com/Nithin-R08/Crop-Disease-Detector"; else if (e.title === "Crypto Wallet for Newbies") url = "https://github.com/Nithin-R08/Crypto-Wallet-for-Newbies"; else if (e.title === "TravelEase") url = "https://github.com/Nithin-R08/TravelEase_Travel-Maanagement-System"; return url ? r`<p class="paragraph" style="margin-top:2rem"><a href="${url}" target="_blank" rel="noopener noreferrer">Repository &#8599;</a></p>` : ""; })()}
         </div>
       </div>
     </div>
@@ -2386,7 +2386,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
           </div>
         </div>
       </div>
-      <div class="work-header-h2-footer">Let<span class="accent">’</span>s have a chat</div>
+      <div class="work-header-h2-footer">Let<span class="accent">'</span>s have a chat</div>
     </div>
   `, ue = Object.fromEntries(E.map(e => [e.slug, e])), ge = E.reduce((e, t) => (e[t.slug] = t, e), {}), ve = e => {
     const t = (e => { const t = ge[e]; return t && t.nextProject ? ge[t.nextProject] : null })(e); return r`
@@ -4350,7 +4350,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
                 <p class="sub">
                   Something got mis-printed.<br />
-                  This URL doesn't exist — but the work does.
+                  This URL doesn't exist - but the work does.
                 </p>
 
                 <div class="cta-row">
@@ -4395,37 +4395,37 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
             <div class="ticker-wrap">
               <div class="ticker-track">
                 <div class="ticker-item red">? Yellow</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item blue">? Red</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">? Blue</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">404 · Page Not Found</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">Mis-registration Error</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">Nithin · Portfolio</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item red">? Yellow</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item blue">? Red</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">? Blue</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">404 · Page Not Found</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">Mis-registration Error</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
                 <div class="ticker-item">Nithin · Portfolio</div>
-                <div class="ticker-item">—</div>
+                <div class="ticker-item">-</div>
               </div>
             </div>
           </main>
 
           <footer>
             <div class="footer-col">Design & code with Nithin</div>
-            <div class="footer-center">…the good stuff is one click away.</div>
-            <div class="footer-col">© 2026</div>
+            <div class="footer-center">...the good stuff is one click away.</div>
+            <div class="footer-col"> 2026</div>
           </footer>
         </div>
       </div>
@@ -6054,7 +6054,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
   }
 
   .pill__filler {
-    background: #fff; /* white fill trÃªn dark bg */
+    background: #fff; /* white fill trÃƒÂªn dark bg */
     position: absolute;
     width: 150%;
     height: 200%;
@@ -6096,7 +6096,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
   }
 
   .pill--hover.pill-back svg g {
-    stroke: #000; /* Ä‘á»•i sang Ä‘en khi fill tráº¯ng */
+    stroke: #000; /* Ã„â€˜Ã¡Â»•i sang Ã„â€˜en khi fill trÃ¡ÂºÂ¯ng */
   }
 
   .button-wrapper {
@@ -6369,7 +6369,7 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
 
         <section class="outro">
           <div class="outro-wrapper">
-            <h1 data-splitting>Let’s have a chat</h1>
+            <h1 data-splitting>Let's have a chat</h1>
 
             <div class="divider"></div>
 
@@ -8111,6 +8111,10 @@ var e = Object.defineProperty, t = (t, i, r) => ((t, i, r) => i in t ? e(t, i, {
       color: #fff;
     }
   `), customElements.define("custom-cursor", Ze); class et { constructor(e) { this.app = e, this.isTransitioning = !1, this._clickHandler = null, this._popHandler = null } init() { this._clickHandler = e => { const t = e.composedPath().find(e => { var t; return e instanceof HTMLAnchorElement && (null == (t = e.getAttribute("href")) ? void 0 : t.startsWith("/")) }); if (!t) return; e.preventDefault(); const i = t.getAttribute("href"); this.navigate(i) }, this._navbarClickHandler = ({ url: e }) => { e && this.navigate(e) }, this._popHandler = () => { this.navigate(window.location.pathname, { updateHistory: !1 }) }, document.addEventListener("click", this._clickHandler), window.addEventListener("popstate", this._popHandler), S.on("navbar:click", this._navbarClickHandler) } async navigate(e, { updateHistory: t = !0 } = {}) { var i; if (!this.isTransitioning && e !== this.app.currentPage) { this.isTransitioning = !0, function () { var e; document.body.classList.add("is-transitioning"), null == (e = document.getElementById("interaction-lock")) || e.classList.add("is-active") }(), W.pageReady = !1, S.emit("page:covered", { url: e }), null == (i = this.app.prefetcher) || i.preloadRouteEager(e); try { await this.app.modules.transition.cover(e), await this.app.loadPage(e, t), this.app.resetScrollBeforeTransition(), await this.app.waitForPageReady(), await this.app.modules.transition.reveal() } catch (r) { await this.app.modules.transition.reveal() } finally { this.isTransitioning = !1, function () { var e; document.body.classList.remove("is-transitioning"), null == (e = document.getElementById("interaction-lock")) || e.classList.remove("is-active") }() } } } destroy() { document.removeEventListener("click", this._clickHandler), window.removeEventListener("popstate", this._popHandler), S.off("navbar:click", this._navbarClickHandler) } } class tt { constructor() { this.modules = {}, this.currentPage = window.location.pathname || "/", this.animationQueue = [], this.isPreloaderComplete = !1, this.isFirstLoad = !0, this.pageLoadState = {}, this._queuedComponents = new Set, this._prefetched = new Set, this.init() } async init() { var e; await (null == (e = document.fonts) ? void 0 : e.ready), this.isFirstLoad && (this.modules.preloader = new $({ onComplete: () => this.onPreloaderComplete() })), this.modules.transition = new G, this.modules.pages = He, this.loadPage(this.currentPage), this.isFirstLoad = !1, S.on("transition:start", () => { w.getAll().forEach(e => { e.disable(!1) }) }), S.on("transition:end", () => { w.getAll().forEach(e => { e.enable(!1) }) }), this.coordinator = new et(this), this.coordinator.init() } resetScrollBeforeTransition() { var e; (null == (e = window.currentAnimation) ? void 0 : e.lenis) && window.currentAnimation.lenis.scrollTo(0, { immediate: !0 }); const t = document.querySelector(".scroll-container"); t && (t.scrollTop = 0), window.scrollTo(0, 0) } waitForPageReady() { return W.pageReady ? Promise.resolve() : new Promise(e => S.once("page:ready", e)) } async loadPage(e, t = !0) { try { const { page: i, params: r } = this.resolveRoute(e); t && window.history.pushState({}, "", e), document.title = j[e] || "Nithin - Error", this.currentPage = e, this.pageLoadState[e] = !0; const o = this.modules.pages[i], s = await o(r); this.renderPage(s) } catch (i) { } } resolveRoute(e) { const t = e.split("?")[0].split("#")[0]; return "/" === t ? { page: "home", params: {} } : "/about" === t ? { page: "about", params: {} } : "/works" === t ? { page: "work", params: {} } : "/contact" === t ? { page: "contact", params: {} } : t.startsWith("/works/") ? { page: "project", params: { slug: t.replace("/works/", "") } } : { page: "notFound", params: {} } } renderPage(e) { const t = document.querySelector(".container"); t && ("string" == typeof e ? g(r`${v(e)}`, t) : ((null == e ? void 0 : e.strings) || e instanceof HTMLElement) && g(e, t)) } removeInitialShell() { [".preloader", ".split-overlay", ".tags-overlay"].forEach(e => { const t = document.querySelector(e); t && (t.style.pointerEvents = "none", t.remove()) }) } onPreloaderComplete() { this.isPreloaderComplete = !0, sessionStorage.setItem("preloader_seen", "1"), this.removeInitialShell(), this.processAnimationQueue() } triggerAnimationsOnSlide() { this.isPreloaderComplete = !0, this.processAnimationQueue() } queueAnimation(e, t = "unknown") { this.isPreloaderComplete ? e() : this._queuedComponents.has(t) || (this._queuedComponents.add(t), this.animationQueue.push(e)) } processAnimationQueue() { this.animationQueue.forEach(e => e()), this.animationQueue = [], this._queuedComponents.clear() } } document.addEventListener("DOMContentLoaded", () => { window.app = new tt });
+
+
+
+
 
 
 
